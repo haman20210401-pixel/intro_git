@@ -1,4 +1,0 @@
-github練習
-2.練習
-3.練習
-4.git status
